@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild-complete.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

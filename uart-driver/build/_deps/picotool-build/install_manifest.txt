@@ -1,0 +1,7 @@
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/_deps/picotool/picotool
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/_deps/picotool/picotoolTargets.cmake
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/_deps/picotool/picotoolTargets-release.cmake
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/_deps/picotool/picotoolConfig.cmake
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/_deps/picotool/picotoolConfigVersion.cmake
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/_deps/picotool/enc_bootloader.elf
+/Users/yingyedeng/pico/pico-projects/uart-driver/build/_deps/picotool/enc_bootloader_mbedtls.elf
